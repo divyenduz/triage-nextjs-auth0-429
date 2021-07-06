@@ -1,0 +1,9 @@
+*.env
+*.envrc
+
+node_modules
+.next
+
+.idea
+.DS_Store
+.vscode
